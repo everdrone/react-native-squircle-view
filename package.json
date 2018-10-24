@@ -1,0 +1,30 @@
+{
+  "name": "react-native-squircle-view",
+  "version": "1.0.0",
+  "description": "Apple flavored curve continuity for React Native",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "react-native",
+    "squircle",
+    "smooth",
+    "rounded",
+    "superellipse",
+    "curvature",
+    "continuity",
+    "apple",
+    "ios"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/everdrone/react-native-squircle-view"
+  },
+  "author": "everdrone",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
