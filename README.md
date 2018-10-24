@@ -31,7 +31,7 @@ yarn add react-native-super-ellipse-mask
 
 ## Caveats
 
-If XCode gives you a linker error and many warnings like `Auto-Linking library not found for -lswiftCoreGraphics` just add an [empty swift file](/examples/basic/ios/workaround.swift) to the root of your `.xcodeproj` ([Source](https://stackoverflow.com/questions/50096025/it-gives-errors-when-using-swift-static-library-with-objective-c-project/50495316#50495316))
+If XCode gives you a linker error and many warnings like `Auto-Linking library not found for -lswiftCoreGraphics` just add an [empty swift file](/examples/basic/ios/basic/workaround.swift) to the root of your `.xcodeproj` ([Source](https://stackoverflow.com/questions/50096025/it-gives-errors-when-using-swift-static-library-with-objective-c-project/50495316#50495316))
 
 ## Known Issues
 
