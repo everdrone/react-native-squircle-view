@@ -1,7 +1,7 @@
 {
   "name": "react-native-squircle-view",
   "version": "1.0.1",
-  "description": "Apple flavored curve continuity for React Native",
+  "description": "Apple flavored curvature continuity for React Native",
   "main": "index.js",
   "scripts": {},
   "keywords": [

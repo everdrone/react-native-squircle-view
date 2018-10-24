@@ -1,6 +1,6 @@
 # SquircleView
 
-Apple flavored curve continuity for React Native
+Apple flavored curvature continuity for React Native
 
 ## Getting started
 
