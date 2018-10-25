@@ -1,6 +1,12 @@
-# SquircleView
+<h1 align="center">
+<img src=".github/logo.png" alt="SquircleView" />
+<br/><br/>
+</h1>
 
 Apple flavored curvature continuity for React Native
+
+### Sponsors
+<a href="https://balance.io" target="_blank"><img width="339" height="68" src=".github/balance@2x.png"/></a>
 
 ## Getting started
 
@@ -10,7 +16,9 @@ yarn add react-native-super-ellipse-mask
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-squircle-view`
+```bash
+react-native link react-native-squircle-view
+```
 
 ### Manual installation
 
