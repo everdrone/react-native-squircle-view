@@ -6,6 +6,7 @@
 Apple flavored curvature continuity for React Native
 
 ### Sponsors
+
 <a href="https://balance.io" target="_blank"><img width="339" height="68" src=".github/balance@2x.png"/></a>
 
 ## Getting started
