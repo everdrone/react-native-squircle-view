@@ -31,7 +31,7 @@ yarn add react-native-super-ellipse-mask
 
 ## Props
 
-- `interpolatePath` : `bool` : Interpolates the corner shape from super elliptical to circular.
+- `interpolatePath` `bool`: Interpolates the corner shape from super elliptical to circular. Defaults to `true`
 
 ![interpolatePath](.github/interpolatePath.gif)
 
